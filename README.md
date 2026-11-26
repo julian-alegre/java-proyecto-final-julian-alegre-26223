@@ -1,6 +1,6 @@
 # java-proyecto-final-julian-alegre-26223
 Proyecto Final - Backend Java - Comision 26223
-Video Link: https://youtu.be/S6DHTL2Xw38
+Video Link: https://youtu.be/gYPQt8au82M
 Alumno: Alegre Rojas, Julian Juan Ignacio
 
 Tecnologias utilizadas:
@@ -38,7 +38,7 @@ Listado de endpoints disponibles
 - Actualizar Articulo: PUT /api/articulos/{ID}
 - Eliminar Articulo: DELETE /api/articulos/{ID}
 
-Video Link: https://youtu.be/S6DHTL2Xw38
+Video Link: https://youtu.be/gYPQt8au82M
 
 
 Aclaraciones:
