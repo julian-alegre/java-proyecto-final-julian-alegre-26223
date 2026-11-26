@@ -14,6 +14,7 @@ Tecnologias utilizadas:
 - MySQL: Base de Datos Relacional
 - Postman: Pruebas de la API
 - Visual Studio Code: IDE de desarrollo
+- Git: para versionado
 
 Requisitos para ejecutar la aplicacion:
 ----------------------------------------
